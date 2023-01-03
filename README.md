@@ -8,3 +8,4 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
 1. One Liner should not __greatly__ exceed the line length as described in the PEP8, which is currently 72 characters.
 2. `import` statements don't count as lines
 3. One or two variables declared before a One Liner don't count as lines
+4. A One Liner should not use third party libraries. There is plenty to explore in the standard library!

@@ -1,7 +1,10 @@
 import random, string
 
 print('One a Day One Liners - 2023.01.01')
+print('Generate a random eight character id! 🥇')
+
 uid = ''.join(random.choices(string.ascii_letters + string.digits, k=8))
+
 print(f'Here is your randomly generated 8 char id {uid}')
 
 if __name__ == '__main__':

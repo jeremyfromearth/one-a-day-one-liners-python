@@ -1,0 +1,5 @@
+print('One a Day One Liners - 2023.01.03')
+print('Spin up a web server from the command line… 🕸')
+print('Nothing to see here... Just enter this into the terminal:')
+print('python -m https.server 8291')
+print('Voilà! A local web server.')

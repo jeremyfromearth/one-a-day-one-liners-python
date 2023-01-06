@@ -10,8 +10,9 @@ def top_n_terms(filepath, stop=None, n=10):
   """
     - Loads a stop words file
     - Loads a text file
-    - Splits the text into individual terms and removes puncuation
-    - Counts occurences of tersm
+    - Splits the text into individual terms
+    - Removes puncuation and stop words
+    - Counts occurences of terms
     - Returns the top n occuring terms
   """
   result = {}

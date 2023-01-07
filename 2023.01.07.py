@@ -12,3 +12,4 @@ with open('./data/text/darwin-origin_of_species-pg2009.txt') as f:
   t2 = datetime.now()
 
   print(f'Completed tokenization of {len(tokens)} in {t2 - t1}')
+  print(tokens)

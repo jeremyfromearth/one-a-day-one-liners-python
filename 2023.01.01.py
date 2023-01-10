@@ -41,7 +41,7 @@ if __name__ == '__main__':
   epochs = args.epochs
 
   collisions = 0
-  letters = string.ascii_letters+ string.digits
+  letters = string.ascii_letters + string.digits
 
   print(f'Generating {count} random ids every {epochs} epoch(s)')
 

@@ -9,7 +9,6 @@ with open('./data/text/darwin-origin_of_species-pg2009.txt') as f:
 
   t1 = datetime.now()
   result = [(term, i) for i in range(len(text)) for term in terms if text.startswith(term, i)]
-
   t2 = datetime.now()
   result = [(term, i) for term in terms for i in range(len(text)) if text.startswith(term, i)]
   t3 = datetime.now()

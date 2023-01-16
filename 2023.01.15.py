@@ -1,4 +1,4 @@
-print('One a Day One Liners - 2023.01.14')
+print('One a Day One Liners - 2023.01.15')
 print('Create an identity matrix 🪪')
 
 n = 5

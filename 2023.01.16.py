@@ -1,4 +1,4 @@
-print('One a Day One Liners - 2023.01.14')
+print('One a Day One Liners - 2023.01.16')
 print('Find the transpose a square matrix 🙃')
 
 matrix = [

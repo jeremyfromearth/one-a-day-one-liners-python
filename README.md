@@ -1,6 +1,6 @@
 # One a Day One Liners with Python
 
-Every day I add a new Python One Liner [to my Medium blog](https://medium.com/@jeremyfromearth). Sometimes they are deceptively simple but merit a deep dive and others just demonstrate basic language features. The motivation for this project is to keep myself learning new things about the Python language everyday and to encourage a wider dialog and collaboration with others in the Python community. Feel free to leave comments on the blog or better yet clone the repo and contribute to the project.
+Everyday I add a new Python One Liner [to my Medium blog](https://medium.com/@jeremyfromearth). Sometimes they are deceptively simple but merit a deep dive and others just demonstrate basic language features. The motivation for this project is to keep myself learning new things about the Python language everyday and to encourage a wider dialog and collaboration with others in the Python community. Feel free to leave comments on the blog or better yet clone the repo and contribute to the project.
 
 ## One Liner Criteria
 This project is just for fun and doesn't seek to enforce any hard and fast rules, but it does make sense to provide a basic description of what is meant by the term "One Liner"

@@ -1,4 +1,4 @@
-print('One a Day One Liners - 2023.01.19')
+print('One a Day One Liners - 2023.01.20')
 print('Calculate the cosine similarity of two vectors ← ↑ →')
 from math import acos, sqrt, pi
 

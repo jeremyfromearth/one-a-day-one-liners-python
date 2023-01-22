@@ -8,4 +8,3 @@ with open('./data/text/darwin-origin_of_species-pg2009.txt') as f:
   # Remove all puncuations (Sorry Darwin)
   punc_free_text = text.translate(str.maketrans('', '', string.punctuation))
   print(punc_free_text)
-

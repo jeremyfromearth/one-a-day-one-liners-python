@@ -19,5 +19,3 @@ with open('./data/text/darwin-origin_of_species-pg2009.txt') as f:
   for r in result:
     term, start, end = r[0], r[1], r[1] + len(r[0])
     print(term, start, end, text[start:end])
-
-

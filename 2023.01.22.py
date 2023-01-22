@@ -16,6 +16,8 @@ def count_keywords(line: str) -> None:
   global line_counter
   line_counter += 1
   cols = line.split(',')
+
+  # Only count key words for class 0
   if cols[0] == '0':
     kws = filter(
       lambda x: len(x),

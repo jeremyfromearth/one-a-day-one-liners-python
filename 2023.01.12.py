@@ -9,7 +9,7 @@ with open('./data/text/stop.txt') as f:
 with open('./data/text/darwin-origin_of_species-pg2009.txt') as f:
   text = ' '.join(f.read().split('\n'))
 
-  #Remove stop words
+  # Remove stop words
   text = ' '.join([word for word in re.sub(r'[^\w\s]', '', text).split(' ') if word.lower() not in stop])
 
   print(text)

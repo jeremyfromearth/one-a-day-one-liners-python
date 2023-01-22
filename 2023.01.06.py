@@ -5,6 +5,7 @@ import string
 from datetime import datetime
 from functools import lru_cache
 
+
 @lru_cache(maxsize=120)
 def top_n_terms(filepath, stop=None, n=10):
   """
@@ -36,6 +37,7 @@ def top_n_terms(filepath, stop=None, n=10):
   top_n = (sorted(result.items(), key=lambda x: x[1])[-n:])
   top_n.reverse()
   return top_n
+
 
 if __name__ == '__main__':
   n_terms = 32

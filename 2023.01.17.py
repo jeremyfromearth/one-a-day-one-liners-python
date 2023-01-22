@@ -12,7 +12,7 @@ b = [
   [11, 12, 0]
 ]
 
-result = [[sum([x*y for x, y in zip(row, col)]) for col in zip(*b)] for row in a]
+result = [[sum([x * y for x, y in zip(row, col)]) for col in zip(*b)] for row in a]
 
 for i, _ in enumerate(result):
   print(f'{i}: {_}')

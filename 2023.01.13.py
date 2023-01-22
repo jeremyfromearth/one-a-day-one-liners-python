@@ -10,7 +10,7 @@ with open('./data/text/darwin-origin_of_species-pg2009.txt') as f:
 
   n = 8
   top_n = 50
-  phrases = Counter([' '.join(tokens[i:i+n]) for i in range(0, len(tokens))]).most_common(top_n)
+  phrases = Counter([' '.join(tokens[i:i + n]) for i in range(0, len(tokens))]).most_common(top_n)
 
   for i, (phrase, count) in enumerate(phrases):
     if len(phrase.strip()):

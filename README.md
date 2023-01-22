@@ -39,6 +39,8 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 19 - Compute the direct sum of two matrices ⊕
   * 20 - Calculate the cosine similarity of two vectors ← ↑ →
   * 21 - Calculate the Frobenius norm of a matrix √
+### [Week 4 - Working with Files](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-4-4dc6bd5055ff)
+  * 22 - Apply a function over each line of a file 📄
 
 ### Resources
  * [Origin of Species](https://www.gutenberg.org/files/1228/1228-0.txt)

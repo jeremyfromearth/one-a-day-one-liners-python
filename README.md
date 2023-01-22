@@ -41,5 +41,4 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 21 - Calculate the Frobenius norm of a matrix √
 
 ### Resources
-[Origin of Species](https://www.gutenberg.org/files/1228/1228-0.txt)
-[Web of Science Dataset](https://data.mendeley.com/datasets/9rw3vkcfy4/6)
+ * [Origin of Species](https://www.gutenberg.org/files/1228/1228-0.txt)

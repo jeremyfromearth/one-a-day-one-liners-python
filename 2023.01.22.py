@@ -11,7 +11,7 @@ FILE = './data/csv/web-of-science-20k.csv'
 
 def count_keywords(line: str) -> None:
   """
-    Count keywords from a give line
+    Count keywords from a given line
   """
   global line_counter
   line_counter += 1
@@ -24,7 +24,7 @@ def count_keywords(line: str) -> None:
     kw_counter.update(kws)
 
 
-# Apply the count keywords function line by line
+# Apply the count_keywords function line by line
 t1 = datetime.now()
 for line in open(FILE): count_keywords(line)
 t2 = datetime.now()
@@ -33,6 +33,8 @@ print(f'Parsed keywords from {line_counter} lines in {t2-t1}')
 for kw in kw_counter.most_common(32):
   print(kw)
 
+# Apply the count_keywords function to each line
+# after reading the whole file
 kw_counter = Counter()
 t3 = datetime.now()
 with open(FILE) as f:

@@ -8,7 +8,38 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
 > Note: These guidelines are completely subject to change!
 
 1. All of the One Liners are going to be written with Python 3.6 and up.
-1. One Liner should not __greatly__ exceed the line length as described in the PEP8, which is currently 72 characters.
-1. `import` statements don't count as lines
-1. One or two variables declared before a One Liner don't count as lines
+1. One Liner should not __greatly__ exceed the line length as described in the PEP8, which is currently 72 characters. __Update:__ I have not adhered to this at all!
+1. `import` statements don't count as lines.
+1. One or two variables declared before a One Liner don't count as lines.
 1. A One Liner should not use third party libraries. There is plenty to explore in the standard library!
+
+## Table of Contents
+### January 2023
+### [Week 1 (no theme)](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-2b2147611c6)
+  * 1 - Generate a random eight character id! 🥇
+  * 2 - Divide and floor with double slash, simple and effective 👍🏻
+  * 3 - Find the nclosest matches to a given string, using difflib 🧐
+  * 4 - Spin up a web server from the command line… 🕸
+  * 5 - k-permutations of n 🧮
+  * 6 - Memoize a function 🐘
+  * 7 - Tokenize text 📚
+### [Week 2 - Text Processing](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-2-aacad44ff29c)
+  * 8 - Generate n-grams ✂️
+  * 9 - Create a Bag of Words model with the Counter 🔢
+  * 10 - Redact a top secret document 🕵🏻‍♂️
+  * 11 - Remove all that pesky punctuation with str.translate 🔤
+  * 12 - Remove stop words 🫣
+  * 13 - Count most common phrases of length n 💯
+  * 14 - Find occurrences of terms or phrases 🔎
+### [Week 3 - Matrix & Vector Operations](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-3-d0a5c8229183)
+  * 15 - Create an identity matrix 🪪
+  * 16 - Find the transpose a square matrix 🙃
+  * 17 - Multiply two matrices 🅰️✖🅱️
+  * 18 - Partition a matrix into a sub-matrix 🍕
+  * 19 - Compute the direct sum of two matrices ⊕
+  * 20 - Calculate the cosine similarity of two vectors ← ↑ →
+  * 21 - Calculate the Frobenius norm of a matrix √
+
+### Resources
+[Origin of Species](https://www.gutenberg.org/files/1228/1228-0.txt)
+[Web of Science Dataset](https://data.mendeley.com/datasets/9rw3vkcfy4/6)

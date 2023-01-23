@@ -41,7 +41,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 21 - Calculate the Frobenius norm of a matrix √
 ### [Week 4 - Working with Files](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-4-4dc6bd5055ff)
   * 22 - Apply a function over each line of a file 📄
-  * 23 - Create Timed Rotating Logs 🪵
+  * 23 - Create timed rotating logs 🪵
 
 ### Resources
  * [Origin of Species](https://www.gutenberg.org/files/1228/1228-0.txt)

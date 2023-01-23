@@ -1,5 +1,5 @@
 print('One a Day One Liners - 2023.01.22')
-print('Create a Timed Rotating Log File 🪵')
+print('Create timed rotating logs  🪵')
 
 import logging
 import time

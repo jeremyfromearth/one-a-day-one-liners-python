@@ -1,0 +1,6 @@
+print('One a Day One Liners - 2023.01.24')
+print('Make a JSON file human readable 🤖 → 💁')
+print('Nothing to see here... Just enter this into the terminal:')
+print('python -m json.tool ./data/json/products.json --indent=2 > ./data/json/products-neat.json')
+print('Voilà! Human readable data!')
+print('Thanks to https://dummyjson.com/ for the data.')

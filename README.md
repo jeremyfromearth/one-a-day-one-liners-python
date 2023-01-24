@@ -42,7 +42,9 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
 ### [Week 4 - Working with Files](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-4-4dc6bd5055ff)
   * 22 - Apply a function over each line of a file 📄
   * 23 - Create timed rotating logs 🪵
+  * 24 - Make a JSON file human readable 🤖 → 💁
 
 ### Resources
+ * [DummyJSON](https://dummyjson.com/)
  * [Origin of Species](https://www.gutenberg.org/files/1228/1228-0.txt)
  * [Web of Science Dataset](https://data.mendeley.com/datasets/9rw3vkcfy4/6)

@@ -4,3 +4,4 @@ env/
 logs/
 setup.cfg
 data/json/products-neat.json
+data/json/web-of-science-20k.json

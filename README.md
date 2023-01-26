@@ -43,8 +43,12 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 22 - Apply a function over each line of a file 📄
   * 23 - Create timed rotating logs 🪵
   * 24 - Make a JSON file human readable 🤖 → 💁
+  * 25 - Convert a CSV file into a JSON file 🚣🏻‍♀️ → 📦
+  * 26 - Search all files in a directory for a term or phrase 🔍
 
 ### Resources
  * [DummyJSON](https://dummyjson.com/)
+ * [Flatland](https://www.gutenberg.org/ebooks/201)
  * [Origin of Species](https://www.gutenberg.org/files/1228/1228-0.txt)
  * [Web of Science Dataset](https://data.mendeley.com/datasets/9rw3vkcfy4/6)
+ * [Worlds within Worlds](https://www.gutenberg.org/ebooks/49819)

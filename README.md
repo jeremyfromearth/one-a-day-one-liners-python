@@ -45,6 +45,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 24 - Make a JSON file human readable 🤖 → 💁
   * 25 - Convert a CSV file into a JSON file 🚣🏻‍♀️ → 📦
   * 26 - Search all files in a directory for a term or phrase 🔍
+  * 27 - Auto-detect the delimiter of a CSV file and parse it 🐶
 
 ### Resources
  * [DummyJSON](https://dummyjson.com/)

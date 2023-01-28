@@ -46,6 +46,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 25 - Convert a CSV file into a JSON file 🚣🏻‍♀️ → 📦
   * 26 - Search all files in a directory for a term or phrase 🔍
   * 27 - Auto-detect the delimiter of a CSV file and parse it 🐶
+  * 28 - Remove all files of a specific type from the current dir 🗑️
 
 ### Resources
  * [DummyJSON](https://dummyjson.com/)

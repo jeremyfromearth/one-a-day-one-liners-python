@@ -48,6 +48,9 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 27 - Auto-detect the delimiter of a CSV file and parse it 🐶
   * 28 - Remove all files of a specific type from the current dir 🗑️
 
+### [Week 5 - Computational Geometry](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-5-e5e2f66ed7e6)
+  * 29 - Determine if a point is within a plane 👉🏻 ✈️
+
 ### Resources
  * [DummyJSON](https://dummyjson.com/)
  * [Flatland](https://www.gutenberg.org/ebooks/201)

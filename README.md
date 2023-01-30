@@ -50,6 +50,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
 
 ### [Week 5 - Computational Geometry](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-5-e5e2f66ed7e6)
   * 29 - Determine if a point is within a plane 👉🏻 ✈️
+  * 30 - Generate geometry for an n-sided regular polygon ▲ ⬣
 
 ### Resources
  * [DummyJSON](https://dummyjson.com/)

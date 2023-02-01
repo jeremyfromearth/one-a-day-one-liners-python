@@ -16,16 +16,16 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
 ## Table of Contents
 ### January 2023
 ### [Week 1 (no theme)](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-2b2147611c6)
-  * 1 - Generate a random eight character id! 🥇
-  * 2 - Divide and floor with double slash, simple and effective 👍🏻
-  * 3 - Find the nclosest matches to a given string, using difflib 🧐
-  * 4 - Spin up a web server from the command line… 🕸
-  * 5 - k-permutations of n 🧮
-  * 6 - Memoize a function 🐘
-  * 7 - Tokenize text 📚
+  * 01 - Generate a random eight character id! 🥇
+  * 02 - Divide and floor with double slash, simple and effective 👍🏻
+  * 03 - Find the nclosest matches to a given string, using difflib 🧐
+  * 04 - Spin up a web server from the command line… 🕸
+  * 05 - k-permutations of n 🧮
+  * 06 - Memoize a function 🐘
+  * 07 - Tokenize text 📚
 ### [Week 2 - Text Processing](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-2-aacad44ff29c)
-  * 8 - Generate n-grams ✂️
-  * 9 - Create a Bag of Words model with the Counter 🔢
+  * 08 - Generate n-grams ✂️
+  * 09 - Create a Bag of Words model with the Counter 🔢
   * 10 - Redact a top secret document 🕵🏻‍♂️
   * 11 - Remove all that pesky punctuation with str.translate 🔤
   * 12 - Remove stop words 🫣
@@ -53,9 +53,14 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 30 - Generate geometry for an n-sided regular polygon ▲ ⬣
   * 31 - Find the centroid of a regular 2D polygon ⏺️
 
+### Feb 2023
+  * 01 - Find the intersection of two rectangles 🚦∩
+
+
 ### Resources
  * [DummyJSON](https://dummyjson.com/)
  * [Flatland](https://www.gutenberg.org/ebooks/201)
  * [Origin of Species](https://www.gutenberg.org/files/1228/1228-0.txt)
  * [Web of Science Dataset](https://data.mendeley.com/datasets/9rw3vkcfy4/6)
  * [Worlds within Worlds](https://www.gutenberg.org/ebooks/49819)
+

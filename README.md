@@ -55,7 +55,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
 
 ### Feb 2023
   * 01 - Find the intersection of two rectangles 🚦∩
-
+  * 02 - Determine if two rectangles overlap ⧉
 
 ### Resources
  * [DummyJSON](https://dummyjson.com/)
@@ -63,4 +63,3 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
  * [Origin of Species](https://www.gutenberg.org/files/1228/1228-0.txt)
  * [Web of Science Dataset](https://data.mendeley.com/datasets/9rw3vkcfy4/6)
  * [Worlds within Worlds](https://www.gutenberg.org/ebooks/49819)
-

@@ -56,6 +56,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
 ### Feb 2023
   * 01 - Find the intersection of two rectangles 🚦∩
   * 02 - Determine if two rectangles overlap ⧉
+  * 03 - Scale and rotation invariant triangle similarity test 📐
 
 ### Resources
  * [DummyJSON](https://dummyjson.com/)

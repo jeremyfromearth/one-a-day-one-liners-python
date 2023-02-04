@@ -20,6 +20,7 @@ if __name__ == '__main__':
     type=int,
     help='Length of each id'
   )
+
   parser.add_argument(
     '-c',
     '--count',
@@ -27,6 +28,7 @@ if __name__ == '__main__':
     type=int,
     help='Number of ids to generate'
   )
+
   parser.add_argument(
     '-e',
     '--epochs',

@@ -57,6 +57,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 01 - Find the intersection of two rectangles 🚦∩
   * 02 - Determine if two rectangles overlap ⧉
   * 03 - Scale and rotation invariant triangle similarity test 📐
+  * 04 - Generate a grid of rectangles 🟥 🟧 🟨
 
 ### Resources
  * [DummyJSON](https://dummyjson.com/)

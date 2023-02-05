@@ -59,6 +59,9 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 03 - Scale and rotation invariant triangle similarity test 📐
   * 04 - Generate a grid of rectangles 🟥 🟧 🟨
 
+### [Week 6 - Randomness](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-6-dbdacf8679b8)
+  * 05 - Create a Poisson distribution 🔔
+
 ### Resources
  * [DummyJSON](https://dummyjson.com/)
  * [Flatland](https://www.gutenberg.org/ebooks/201)

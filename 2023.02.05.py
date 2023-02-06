@@ -1,3 +1,6 @@
+print('One a Day One Liners with Python - 2023.02.05')
+print('Create a Poisson distribution 🔔')
+
 from math import exp
 from functools import reduce
 

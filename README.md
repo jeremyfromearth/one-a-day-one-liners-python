@@ -61,6 +61,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
 
 ### [Week 6 - Randomness](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-6-dbdacf8679b8)
   * 05 - Create a Poisson distribution 🔔
+  * 06 - Generate a variable length pseudo random key 🗝️
 
 ### Resources
  * [DummyJSON](https://dummyjson.com/)

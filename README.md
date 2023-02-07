@@ -59,7 +59,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 03 - Scale and rotation invariant triangle similarity test 📐
   * 04 - Generate a grid of rectangles 🟥 🟧 🟨
 
-### [Week 6 - Randomness](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-6-dbdacf8679b8)
+### [Week 6 - Patterns in the Noise](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-6-dbdacf8679b8)
   * 05 - Create a Poisson distribution 🔔
   * 06 - Generate a variable length pseudo random key 🗝️
   * 07 - Create a year of mock weather data ❄️🌿☀️🍂📈

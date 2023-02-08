@@ -63,6 +63,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 05 - Create a Poisson distribution 🔔
   * 06 - Generate a variable length pseudo random key 🗝️
   * 07 - Create a year of mock weather data ❄️🌿☀️🍂📈
+  * 08 - Never make a choice on your own again, with a Magic 8 Ball One Liner 🎱
 
 ### Resources
  * [DummyJSON](https://dummyjson.com/)

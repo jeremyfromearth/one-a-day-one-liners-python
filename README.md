@@ -65,10 +65,13 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 07 - Create a year of mock weather data ❄️🌿☀️🍂📈
   * 08 - Never make a choice on your own again, with a Magic 8 Ball One Liner 🎱
   * 09 - Calculate the probability of rolling 8, twice in 10 rolls of a 20 sided die 🎲
+  * 10 - I am 2D noise 🎧
 
 ### Resources
- * [DummyJSON](https://dummyjson.com/)
- * [Flatland](https://www.gutenberg.org/ebooks/201)
- * [Origin of Species](https://www.gutenberg.org/files/1228/1228-0.txt)
- * [Web of Science Dataset](https://data.mendeley.com/datasets/9rw3vkcfy4/6)
- * [Worlds within Worlds](https://www.gutenberg.org/ebooks/49819)
+  * [DummyJSON](https://dummyjson.com/)
+  * [Flatland](https://www.gutenberg.org/ebooks/201)
+  * [List of Adjectives](https://gist.githubusercontent.com/hugsy/8910dc78d208e40de42deb29e62df913/raw/eec99c5597a73f6a9240cab26965a8609fa0f6ea/english-adjectives.txt)
+  * [List of Nouns](https://raw.githubusercontent.com/hugsy/stuff/main/random-word/english-nouns.txt)
+  * [Origin of Species](https://www.gutenberg.org/files/1228/1228-0.txt)
+  * [Web of Science Dataset](https://data.mendeley.com/datasets/9rw3vkcfy4/6)
+  * [Worlds within Worlds](https://www.gutenberg.org/ebooks/49819)

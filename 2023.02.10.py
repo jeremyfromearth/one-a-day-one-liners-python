@@ -1,9 +1,9 @@
-print('One a Day One Liners with Python - 2023-02-10')
-print('I am 2D noise 🎧')
-from random import random
+print('One a Day One Liners with Python - 2023.02.10')
+print('Let’s make some noise 🎧')
 
-w = 128
-h = 128
+from math import cos, sin
+from random import randint
 
-noise = [[random() for x in range(w)] for y in range(h)]
-print(noise)
+w = 512
+h = 512
+noise = [[cos(x*8/w) * sin(y*8/h) * randint(0, 255) for x in range(w)] for y in range(h)]

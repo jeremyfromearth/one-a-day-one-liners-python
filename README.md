@@ -66,6 +66,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 08 - Never make a choice on your own again, with a Magic 8 Ball One Liner 🎱
   * 09 - Calculate the probability of rolling 8, twice in 10 rolls of a 20 sided die 🎲
   * 10 - Let’s make some noise 🎧
+  * 11 - A random walk in a 2D plane with a One Liner 🤔 🚶🏻
 
 ### Resources
   * [DummyJSON](https://dummyjson.com/)

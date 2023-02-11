@@ -1,6 +1,5 @@
 print('One a Day One Liners with Python - 2023.02.10')
 print('Let’s make some noise 🎧')
-
 from math import cos, sin
 from random import randint
 

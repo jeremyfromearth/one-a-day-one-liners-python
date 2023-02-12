@@ -68,6 +68,9 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 10 - Let’s make some noise 🎧
   * 11 - A random walk in a 2D plane with a One Liner 🤔 🚶🏻
 
+### [Week 7 - Itertools Module](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-7-309e50f689af)
+  * 12 - Compute the powers of 2 up to N with starmap ✨ 🗺️
+
 ### Resources
   * [DummyJSON](https://dummyjson.com/)
   * [Flatland](https://www.gutenberg.org/ebooks/201)

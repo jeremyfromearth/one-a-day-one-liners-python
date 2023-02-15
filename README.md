@@ -72,6 +72,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 12 - Compute the powers of 2 up to N with starmap ✨ 🗺️
   * 13 - Run a batch process using `iter` and `islice` 🍪
   * 14 - Calculate the moving average for stock data 📈
+  * 15 - Unleash chaos into Universe by computing values of the Logistic Map 💥
 
 ### Resources
   * [AAPL Stock Data](https://www.marketwatch.com/investing/stock/aapl)

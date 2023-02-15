@@ -73,6 +73,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 13 - Run a batch process using `iter` and `islice` 🍪
 
 ### Resources
+  * [AAPL Stock Data](https://www.marketwatch.com/investing/stock/aapl)
   * [DummyJSON](https://dummyjson.com/)
   * [Flatland](https://www.gutenberg.org/ebooks/201)
   * [List of Adjectives](https://gist.githubusercontent.com/hugsy/8910dc78d208e40de42deb29e62df913/raw/eec99c5597a73f6a9240cab26965a8609fa0f6ea/english-adjectives.txt)

@@ -1,5 +1,5 @@
 print('One a Day One Liners with Python - 2023.02.14')
-print('Calculate a moving average for a stock price 📈')
+print('Calculate the moving average for stock data 📈')
 
 from csv import reader
 from itertools import accumulate

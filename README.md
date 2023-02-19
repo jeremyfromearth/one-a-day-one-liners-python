@@ -75,6 +75,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 15 - Unleash chaos into Universe by computing values of the Logistic Map 💥
   * 16 - Group items in tabular data by column 💿
   * 17 - Filter out rows of data based on a character range of a given column 🥡
+  * 18 - Easily generate all r permutations of a given list of items 🪄
 
 ### Resources
   * [AAPL Stock Data](https://www.marketwatch.com/investing/stock/aapl)

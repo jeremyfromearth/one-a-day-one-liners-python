@@ -77,6 +77,10 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
   * 17 - Filter out rows of data based on a character range of a given column 🥡
   * 18 - Easily generate all r permutations of a given list of items 🪄
 
+### [Week 8 - Sequences & Series](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-8-7f200e50ef86)
+  * 19 - Compute an arithmetic series 🧮
+  * 20 - Find the partial sum of an exponential sequence 🤯
+
 ### Resources
   * [AAPL Stock Data](https://www.marketwatch.com/investing/stock/aapl)
   * [DummyJSON](https://dummyjson.com/)

@@ -80,6 +80,7 @@ This project is just for fun and doesn't seek to enforce any hard and fast rules
 ### [Week 8 - Sequences & Series](https://jeremyfromearth.medium.com/one-a-day-one-liners-with-python-week-8-7f200e50ef86)
   * 19 - Compute an arithmetic series 🧮
   * 20 - Find the partial sum of an exponential sequence 🤯
+  * 21 - Compute a range of digits from the Fibonacci Sequence 2️⃣ 3️⃣ 5️⃣'
 
 ### Resources
   * [AAPL Stock Data](https://www.marketwatch.com/investing/stock/aapl)
